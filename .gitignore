@@ -1,0 +1,10 @@
+data/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+archive/
+dodatna dva dataseta zipovana/
+book-recommender-system.ipynb
+eda-for-amazon-kindle-2023.ipynb
+docs/CLAUDE_novi_projekat.md
+scripts/
